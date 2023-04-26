@@ -8,3 +8,5 @@ for i in range(1001):
         i=i//10
     if num==result:
         print(num)
+
+
