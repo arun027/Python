@@ -1,3 +1,5 @@
+# You are given n numbers and you have to play a game using them in one move you have to pick any two numbers a and b and replace them by their sum a b doing this gives you a penalty of a b note that the count of elements reduces by 1 every time you take 2 numbers and replace them by their sum the game ends when there is only one element left your task is to minimise the penalty during the game
+
 from os import *
 from sys import *
 from collections import *
